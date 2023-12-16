@@ -35,6 +35,7 @@ O sistema exibe candidatos que atendem aos critérios especificados.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
 ##Autor
+--
 Este projeto foi desenvolvido por [Drielli Almeida].
 
 
